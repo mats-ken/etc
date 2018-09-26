@@ -1,7 +1,7 @@
 cd `dirname $0`
 
 
-find . -iname \*.cpp | xargs \
+find . -iname "*.cpp" -or -iname "*.h" | xargs \
 sed -e s/‘/\'/g \
     -e s/’/\'/g \
     -e s/“/\"/g \
