@@ -1,0 +1,26 @@
+.gitattributes    text eol=crlf
+.gitignore        text eol=crlf
+
+readme.md         text eol=crlf
+
+#*.patch           text eol=crlf
+#
+#*.txt             text eol=crlf
+#
+#*.cpp             text eol=crlf
+#*.h               text eol=crlf
+#*.hpp             text eol=crlf
+#
+#*.resX            text eol=crlf
+#*.sln             text eol=crlf
+#*.vcxproj         text eol=crlf
+#*.vcxproj.filters text eol=crlf
+#*.vcxproj.user    text eol=crlf
+#*.vcproj          text eol=crlf
+#*.vcproj.filters  text eol=crlf
+#*.vcproj.user     text eol=crlf
+#
+#*.ps              text eol=crlf
+#*.svg             text eol=crlf
+*.sh              text eol=lf
+#*.url             text eol=crlf
